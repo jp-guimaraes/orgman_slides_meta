@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/orgman_slides00/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/orgman_slides00/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/1_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/1_intro/</guid>
+      <description>Bem vindos! Curso de Organização e Manutenção de Computadores
+ Duração  Curso de 120h (160h/a)  4ha semanais
+ Horários Segunda-feira: 10h30 - 12h00
+Terça-feira: 10h30 - 12h00
+ Avaliações No mínimo duas avaliações por bimestre
+Provas teóricas e práticas
+Trabalhos
+Práticas de laboratório
+Relatórios
+ Presença  Chamadas feitas todos os dias   Centro Acadêmico   Assíncrono: joao.guimaraes@ifrn.edu.br, Google Sala de aula
+  Combinar horário CA</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/2_apresentacao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/2_apresentacao/</guid>
+      <description> Apresentação https://jp-guimaraes.github.io/eu/
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/3_disciplina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/3_disciplina/</guid>
+      <description>A Disciplina Organização e Manutenção de Computadores
+ Posicionamento dentro do curso Disciplinas em que se sustenta:
+ Práticas de Eletricidade, Eletrônica Analógica e Digital  Disciplinas que suporta:
+ Sistemas Operacionais de Redes de Computadores   Ementa  Apreender os conceitos básicos relacionados à estrutura e funcionamento dos computadores digitais; Compreender o funcionamento dos microcomputadores e periféricos; Identificar os componentes físicos dos microcomputadores e compreender suas funcionalidades;   Ementa  Realizar montagens de equipamentos e possíveis alterações, inclusive suas configurações; Instalar microcomputadores e periféricos; Realizar manutenção preventiva e corretiva em microcomputadores; Especificar equipamentos de microinformática;   Conteúdos  ORGANIZAÇÃO DE COMPUTADORES</description>
+    </item>
+    
+  </channel>
+</rss>
